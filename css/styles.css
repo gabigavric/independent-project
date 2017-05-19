@@ -1,10 +1,5 @@
 ul {list-style-type: none;}
 h1 {color: red; text-align: center;}
 h2 {color: red;}
-.intro {text-align: center; border: 2px dotted; }
-.column {
--moz-column-count: 3;
--webkit-column-count: 3;
-column-count: 3;
-}
+
 img {float:right;}
